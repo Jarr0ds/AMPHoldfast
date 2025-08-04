@@ -3,11 +3,11 @@
         "UpdateStageName": "SteamCMD check for updates",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "1282290",
+        "UpdateSourceData": "1424230",
         "UpdateSourceArgs": "589290",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
-        "ForceDownloadPlatform": "Windows",
+        "ForceDownloadPlatform": "Linux",
         "DeleteAfterExtract": true,
         "OneShot": false
     }

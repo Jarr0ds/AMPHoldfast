@@ -1,13 +1,22 @@
 [
     {
         "UpdateStageName": "SteamCMD check for updates",
-        "UpdateSourcePlatform": "All",
+        "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "1424230",
         "UpdateSourceArgs": "589290",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    },
+    {
+        "UpdateStageName": "Start Application",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "StartApplication",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
         "OneShot": false
     }

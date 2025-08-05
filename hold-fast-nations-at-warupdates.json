@@ -10,14 +10,5 @@
         "ForceDownloadPlatform": "Linux",
         "DeleteAfterExtract": true,
         "OneShot": false
-    },
-    {
-        "UpdateStageName": "Start Application",
-        "UpdateSourcePlatform": "All",
-        "UpdateSource": "StartApplication",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": true,
-        "OneShot": false
     }
 ]

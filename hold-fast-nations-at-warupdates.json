@@ -3,6 +3,7 @@
         "UpdateStageName": "SteamCMD check for updates",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "1424230",
         "UpdateSourceArgs": "1424230",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
